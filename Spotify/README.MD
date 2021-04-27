@@ -1,8 +1,8 @@
 
-# Resultado final
+# Final Result
 
 ![](https://github.com/alrtas/UI-Clones/blob/main/Spotify/finalResult.PNG)
 
-# Comparativo com Spotify original
+# Comparison with original Spotify
 
 ![](https://github.com/alrtas/UI-Clones/blob/main/Spotify/compare.PNG)
